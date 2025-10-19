@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-
+ 
+    // hello
     // int arr[10] = { 10,20,30,40,50 };
 
     // int arr[3][2];
@@ -34,7 +35,9 @@ int main() {
     //         printf("%d ", arr[i][j]);
     //     }
     //     printf("\n");
-    // }
+    // } 
+
+
 
 
     return 0;
