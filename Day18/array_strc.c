@@ -17,7 +17,5 @@ int main() {
     userData[1].height = 5.5;
     strcpy(userData[1].name, "Hello");
 
-
-
     return 0;
 }
